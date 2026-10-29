@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Excel-green)  
 
-# Ecommerce_Inventory  
+# Ecommerce Inventory  
 
 A project using a mock ecommerce inventory dataset to demonstrate my data entry abilities.
 
