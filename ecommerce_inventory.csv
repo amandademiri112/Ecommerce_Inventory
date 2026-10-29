@@ -1,0 +1,21 @@
+﻿SKU,Product Name,Category,Brand / Supplier,Product Type,Current Stock Qty,Reserved Qty,Available Qty,Units Sold Today,Units Sold Yesterday,Units Sold (Last 7 Days),Units Sold (Last 30 Days),Reorder Level,Low Stock Threshold,Last Restock Date,Warehouse,Product Status,Stock Alert
+SKU-1001,Wireless Mouse,Electronics,Logitech,Accessories,48,6,42,9,12,14,39,12,5,2026-10-25,Warehouse A,Active,In Stock
+SKU-1002,USB-C Hub,Electronics,Anker,Accessories,18,4,14,3,5,6,14,5,4,2026-10-24,Warehouse A,Active,In Stock
+SKU-1003,Bluetooth Headphones,Electronics,Soundcore,Audio,9,3,6,2,3,4,9,3,3,2026-10-20,Warehouse B,Active,Low Stock
+SKU-1004,Laptop Stand,Office,Nulaxy,Desk Setup,7,2,5,1,2,3,6,2,2,2026-10-18,Warehouse A,Active,Low Stock
+SKU-1005,Ceramic Coffee Mug,Home,Hearth & Home,Kitchen,64,8,56,11,13,15,39,12,8,2026-10-26,Warehouse C,Active,In Stock
+SKU-1006,Desk Lamp,Home,BrightNest,Lighting,5,2,3,1,2,2,5,2,2,2026-10-21,Warehouse C,Active,Low Stock
+SKU-1007,Reusable Water Bottle,Lifestyle,HydroPeak,Drinkware,23,5,18,4,5,7,16,5,4,2026-10-23,Warehouse B,Active,In Stock
+SKU-1008,Yoga Mat,Fitness,FlexForm,Fitness Gear,4,1,3,1,1,2,4,1,2,2026-10-17,Warehouse B,Active,Low Stock
+SKU-1009,Cotton Tote Bag,Fashion,Everyday Co.,Bags,0,0,0,0,0,0,0,0,0,2026-09-30,Warehouse A,Active,Out of Stock
+SKU-1010,Phone Case,Accessories,CaseCraft,Mobile,31,7,24,6,8,9,23,7,3,2026-10-26,Warehouse A,Active,In Stock
+SKU-1011,LED Strip Lights,Home,GlowLine,Lighting,12,2,10,2,3,4,11,4,3,2026-10-22,Warehouse C,Active,In Stock
+SKU-1012,Notebook Set,Office,PaperTrail,Stationery,3,1,2,1,1,2,3,1,2,2026-10-16,Warehouse A,Active,Low Stock
+SKU-1013,Insulated Lunch Bag,Lifestyle,PackWell,Bags,27,4,23,4,6,8,18,6,5,2026-10-25,Warehouse B,Active,In Stock
+SKU-1014,Portable Charger,Electronics,VoltGo,Mobile,2,1,1,1,1,1,2,1,2,2026-10-15,Warehouse A,Active,Low Stock
+SKU-1015,Throw Pillow,Home,SoftNest,Decor,16,3,13,2,3,4,12,4,4,2026-10-19,Warehouse C,Active,In Stock
+SKU-1016,Running Socks (3-pack),Fashion,Stride,Apparel,41,6,35,7,9,10,29,9,5,2026-10-24,Warehouse B,Active,In Stock
+SKU-1017,Travel Organizer,Lifestyle,PackWell,Travel,6,2,4,1,2,2,5,2,2,2026-10-18,Warehouse B,Active,Low Stock
+SKU-1018,Webcam,Electronics,ClearView,Accessories,8,2,6,1,2,3,8,3,3,2026-10-22,Warehouse A,Active,In Stock
+SKU-1019,Glass Food Containers,Home,FreshKeep,Kitchen,0,0,0,0,0,0,0,0,0,2026-10-01,Warehouse C,Discontinued,Out of Stock
+SKU-1020,Phone Charging Cable,Accessories,VoltGo,Mobile,11,3,8,2,3,4,9,3,3,2026-10-25,Warehouse A,Active,In Stock
