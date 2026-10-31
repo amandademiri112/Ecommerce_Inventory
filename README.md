@@ -12,7 +12,7 @@
 
 ## Purpose
 
-The purpose of this project is to demonstrate my ability to clean data and my skills in data entry.  
+The purpose of this project is to demonstrate my ability to clean data and my skills in data entry using an Ecommerce Inventory dataset.  
 
 ## Objectives
 
