@@ -34,12 +34,15 @@ The purpose of this project is to demonstrate my ability to clean data and my sk
 
 ## Previews
 
+**Cleaned Dataset**  
 ![Cleaned Dataset Preview](Assets/PreviewClean.PNG)  
-
+  
+**Working Dataset**  
 ![Working Dataset Preview](Assets/PreviewWorking.PNG)  
 
+**Original Dataset**  
 ![Original Dataset Preview](Assets/PreviewOriginal.PNG)  
-
+  
 ## Final Project
 
 [Final Project](Final_Dataset/ecommerce_inventory.xlsx)
