@@ -12,7 +12,7 @@
 
 ## Purpose
 
-The purpose of this project is to demonstrate my data cleaning, data entry and data transformation skills using a mock Ecommerce Inventory dataset.
+The purpose of this project is to demonstrate my data cleaning, data entry and data transformation skills in Excel using a mock Ecommerce Inventory dataset.
 
 ## Objectives
 
@@ -27,12 +27,13 @@ The purpose of this project is to demonstrate my data cleaning, data entry and d
 ## Skills
 | ![Static Badge](https://img.shields.io/badge/Technical%20Skills-steelblue) | ![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0) |
 |---|---|
-| Excel | Data cleaning |
+| Excel | Organisation |
 | Excel formulas | Attention to detail |
-| Data validation | Organisation |
+| Data validation |  |
 | Data formatting |  |
 | Data transformation |  |
 | Calculated columns |  |
+| Data cleaning |  |
 
 ## Specific Skills
 
@@ -57,16 +58,19 @@ The purpose of this project is to demonstrate my data cleaning, data entry and d
 ## Previews
 
 **Cleaned Dataset**  
+The final dataset; cleaned, transformed, and formatted.  
 ![Cleaned Dataset Preview](Assets/PreviewClean.PNG)  
   
 **Working Dataset**  
+The dataset that shows the work-in-progess, including both the original columns and the cleaned version of the columns.  
 ![Working Dataset Preview](Assets/PreviewWorking.PNG)  
 
 **Original Dataset**  
+The original dataset I started with, before any cleaning or transformations.
 ![Original Dataset Preview](Assets/PreviewOriginal.PNG)  
   
 ## Final Project
-
+###### The completed Excel workbook is available in the Final_Dataset folder.
 [Final Project](Final_Dataset/ecommerce_inventory.xlsx)
 
 ###### Original dataset available in repository
