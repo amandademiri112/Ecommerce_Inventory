@@ -70,7 +70,7 @@ The original dataset I started with, before any cleaning or transformations.
 ![Original Dataset Preview](Assets/PreviewOriginal.PNG)  
   
 ## Final Project
-###### The completed Excel workbook is available in the Final_Dataset folder.
+###### The completed Excel workbook is also available in the Final_Dataset folder.
 [Final Project](Final_Dataset/ecommerce_inventory.xlsx)
 
 ###### Original dataset available in repository
